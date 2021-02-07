@@ -1,6 +1,6 @@
 ---
 title: "Some cool animal facts"
-author: "Philip Leftwich"
+author: "Jamie Bartram"
 output: html_document
 ---
 
@@ -56,6 +56,16 @@ knitr::opts_chunk$set(echo = TRUE)
 - Can rotate their hind feet 180 degrees to climb better
 - They are not endangered, just very elusive
 - Closely related to raccoons
+
+#### Grogu
+
+![Photo: Baby Yoda](/cloud/project/some cool animals/Grogu.jpg)
+
+##### Grogu fun facts:
+
+- Also known as "The Child"
+- Likes unfertilised frog eggs and control knobs
+- Strong with the force
 
 ###
 
