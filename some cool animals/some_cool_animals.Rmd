@@ -64,7 +64,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ##### Grogu fun facts:
 
 - Also known as "The Child"
-- Likes unfertilised frog eggs and control knobs
+- Likes unfertilised frog eggs & control knobs
 - Strong with the force
 
 ###
